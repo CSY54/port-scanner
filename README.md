@@ -6,11 +6,11 @@ A task from FEDORA PROJECT @ GCI 2019.
 
 ## Screenshots
 
-[![asciicast](https://asciinema.org/a/285002)](https://asciinema.org/a/285002)
+[![asciicast](https://asciinema.org/a/285002.png)](https://asciinema.org/a/285002)
 
 ## Description
 
-```bash
+```
 usage: scanner.py [-h] [--ip IP] [-t TIMEOUT] [-T THREADS]
 
 optional arguments:
